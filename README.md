@@ -6,4 +6,4 @@ Manufactures have increased the number of EV models given consumer a greater cho
 
 As the market continues to increase we now need to analyse if the infrastructure is in place to support an increasing demand for electric chargers and the rise of cost of living specifically the cost of electricity will have an impact on consumer demand for electric vehicles.
 
-![alt text](https://github.com/[ssalazarheredia]/[vehicle_analysis]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/Car%20registrations%20by%20fuel%20type.png)
