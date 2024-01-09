@@ -15,6 +15,7 @@ The shift in consumer behavior has been shiftly, in 2016 there was a complete do
 
 Cars manufactures now provide greater choice for consumers looking to move to electric cars, only a few models were available in 2019 for those looking to make the switch to electric cars. The number of cars offered by the top 10 cars manufactures has nearly doubled and policies requiring manufacturers to produce more than 80% of electric vehicles by 2030 will only increase the number of models availble for consumers to choose from.
 
+![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/total%20number%20Electric%20and%20Plug-in%20Hybrid%20car%20modles%20in%20the%20UK.png)
 ### 
 
 As the market continues to increase we now need to analyse if the infrastructure is in place to support an increasing demand for electric chargers and the rise of cost of living specifically the cost of electricity will have an impact on consumer demand for electric vehicles.
