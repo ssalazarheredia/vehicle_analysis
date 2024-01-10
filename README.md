@@ -22,3 +22,12 @@ Cars manufactures now provide greater choice for consumers looking to move to el
 Southern England (South East, South West and London) have the highest number of electric and more than other parts of the UK with around three hundreed thousand cars registered in this region. Northern ireland, wales and the midlands are lagging behind other regions in the UK, with the lowest uptake of electric cars. 
 
 ![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/Number%20of%20electric%20cars%20by%20region.png)
+
+### Price is one of the barriers for consumers to stwich to electric cars
+
+Regions with lower earnings have the lowest uptake of electric cars and reducing the cost of electric cars should be a priority in order to increase uptake in other regions in the uk. The average asking price of electric cars for volume brands such as Kia, Hyndai and Peugeut in December 2022 was 28k whereas petrol and diesel cars was around 17k (source:trade...). On average consumers will need to spend 10k more to buy an electric car. As more electric cars enter the use cars we should see the a decrease average price of electric cars and become for affordable for families across the UK.
+
+### Electric chargers infrastructure has improved but concetrated to London with around 30% located in the capital
+
+### Outlook
+Electric cars are more popular than ever and uptake of electric cars has increased considerably in the last 3 years as consumers move away from diesel vehicles, consumers have a greater choice of electric car models and better charging infrastructure makes it less incovient to make the switch to electric. Price and electric chargers infracture pose a challenge to the industry with a big concentration of electric cars and chargers in the southern of england. In order for the goverment to meet their ambitious targets, electric cars need to become more affordable and the electric charger infrastructure needs to improve in regions other than southern england.
