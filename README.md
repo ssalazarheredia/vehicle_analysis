@@ -16,6 +16,9 @@ The shift in consumer behavior has been shiftly, in 2016 there was a complete do
 Cars manufactures now provide greater choice for consumers looking to move to electric and plug-in hybrid cars, fewer than 50 different models were registered in 2019. In contrast, more than 150 different models were registered in 2022, consumers now have more than three times more models available than in 2019 and policies requiring manufacturers to produce more than 80% of electric vehicles by 2030 will only increase the number of models available for consumers to choose from.
 
 ![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/total%20number%20Electric%20and%20Plug-in%20Hybrid%20car%20modles%20in%20the%20UK.png)
-### 
 
-As the market continues to increase we now need to analyse if the infrastructure is in place to support an increasing demand for electric chargers and the rise of cost of living specifically the cost of electricity will have an impact on consumer demand for electric vehicles.
+### Nearly half of electric cars are registered in Southern England
+
+Southern England (South East, South West and London) have the highest number of electric and more than other parts of the UK with around three hundreed thousand cars registered in this region. Northern ireland, wales and the midlands are lagging behind other regions in the UK, with the lowest uptake of electric cars. 
+
+![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/Number%20of%20electric%20cars%20by%20region.png)
