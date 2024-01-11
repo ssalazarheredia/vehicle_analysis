@@ -1,4 +1,4 @@
-### Electric cars more popular than ever, they now account for 30% of new car registrations in 2022
+# Electric cars more popular than ever, they now account for 30% of new car registrations in 2022
 
 📆 08 January 2024 | 5 min. read
 
@@ -26,7 +26,7 @@ Southern England (South East, South West and London) have the highest number of 
 
 ### Price is one of the barriers for consumers to stwich to electric cars
 
-Regions with lower earnings have the lowest uptake of electric cars and reducing the cost of electric cars should be a priority in order to increase uptake in other regions in the uk. The average asking price of electric cars for volume brands such as Kia, Hyndai and Peugeut in December 2022 was 28k whereas petrol and diesel cars was around 17k (source:trade...). On average consumers will need to spend 10k more to buy an electric car. As more electric cars enter the use cars we should see the a decrease average price of electric cars and become for affordable for families across the UK.
+Regions with lower earnings have the lowest uptake of electric cars and reducing the cost of electric cars should be a priority in order to increase uptake in other regions in the uk. The average asking price of electric cars for volume brands such as Kia, Hyndai and Peugeut in December 2022 was 28k whereas petrol and diesel cars was around 17k (Autotrader Retail Price Index 2023). On average consumers will need to spend 10k more to buy an electric car. As more electric cars enter the use cars we should see the a decrease average price of electric cars and become for affordable for families across the UK.
 
 ![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/2022%20income%20full%20time%20employeers%20by%20region.png)
 ### Electric chargers infrastructure is concetrated to London with around 35% of total chargers located in the capital
