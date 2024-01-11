@@ -1,4 +1,4 @@
-# Electric cars more popular than ever, they accounted for 30% of new car registrations in 2022
+# Electric cars are more popular than ever, accounting for 30% of new car registrations in 2022
 
 📆 08 January 2024 | 5 min. read
 
