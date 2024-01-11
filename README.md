@@ -1,7 +1,8 @@
-# Electric cars more popular than ever, they now account for 30% of new car registrations in 2022
+# Electric cars more popular than ever, they accounted for 30% of new car registrations in 2022
 
 📆 08 January 2024 | 5 min. read
 
+### Number of electric cars in UK roads have doubled each year since 2019
 Over the last couple of years the electric car market has grown to become a US$561.3bn market worldwide. In the UK, the car market has increased steadily after the pandemic with around 600k electric cars now in the road, an increased from 100k in 2019 and accounting for 2% of overall cars in the road. There are more electric cars than ever in the uk roads, this trend is likely to continue as consumers shift from diesel to less polluting cars.
 
 ![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/total%20number%20licenced%20of%20electric%20cars%20in%20the%20UK.png)
