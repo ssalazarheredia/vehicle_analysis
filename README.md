@@ -25,7 +25,7 @@ Southern England (South East, South West and London) have the highest number of 
 
 ![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/Number%20of%20electric%20cars%20by%20region.png)
 
-### Price is one of the barriers for consumers to stwich to electric cars
+### Price is one of the barriers for consumers to switch to electric cars
 
 Regions with lower earnings have the lowest uptake of electric cars and reducing the cost of electric cars should be a priority in order to increase uptake in other regions in the uk. The average asking price of electric cars for volume brands such as Kia, Hyndai and Peugeut in December 2022 was 28k whereas petrol and diesel cars was around 17k (Autotrader Retail Price Index 2023). On average consumers will need to spend 10k more to buy an electric car. As more electric cars enter the use cars we should see the a decrease average price of electric cars and become for affordable for families across the UK.
 
