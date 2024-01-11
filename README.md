@@ -9,7 +9,7 @@ Over the last couple of years the electric car market has grown to become a US$5
 
 ### Electric cars now more popular than diesel cars
 
- In 2016, there was a complete dominance of petrol and diesel vehicles, each constituting a 50/50 split in the total number of car registrations. However, the landscape has since undergone a substantial evolution, with diesel vehicles now representing less than 10% of new registrations. A significant milestone was reached in 2021, as new registrations of electric cars surpassed those of diesel for the first time.
+ In 2015, there was a complete dominance of petrol and diesel vehicles, each constituting a 50/50 split in the total number of new car registrations. However, the landscape has since undergone a substantial evolution, with diesel vehicles now representing less than 10% of new registrations. A significant milestone was reached in 2021, as new registrations of electric cars surpassed those of diesel for the first time.
 
 ![alt text](https://github.com/ssalazarheredia/vehicle_analysis/blob/main/graphs/Car%20registrations%20by%20fuel%20type.png)
 
